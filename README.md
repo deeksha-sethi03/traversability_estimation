@@ -1,2 +1,3 @@
-# Improved Trail Estimation using Attention Fully Convolutional Networks
-Estimate the traversability of a terrain using semantic segmentation and deep learning!
+# Improved Traversability Estimation using Attention with Fully Convolutional Networks
+
+The research aims to prove that integrating attention with fully convolutional networks can improve the traversability estimation of the terrain. 
