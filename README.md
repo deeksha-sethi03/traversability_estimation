@@ -12,7 +12,7 @@ The below plot demonstrates the consistent improvement in the performance of the
 ![Training mIOU](https://github.com/deeksha-sethi03/traversability_estimation/assets/63807125/352d9d9b-5e58-420d-8f8a-1658b03572c1)
 
 
-The results of the test images are shown below. The improvement in the smooth terrain is evident in the mean IOU. We compare the results of our proposed Attention FCN with the Baseline FCN inspired by the model used in https://www.ri.cmu.edu/app/uploads/2017/11/semantic-mapping-offroad-nav-compressed.pdf.
+The results of the test images are shown below. The improvement in the smooth terrain is evident in the mean IOU. We compare the results of our proposed Attention FCN with the Baseline FCN inspired by the model used in https://www.ri.cmu.edu/app/uploads/2017/11/semantic-mapping-offroad-nav-compressed.pdf. 
 
 
 ![Test mIOU](https://github.com/deeksha-sethi03/traversability_estimation/assets/63807125/9096e7af-a248-44d2-9b16-83f7dfe8addc)
